@@ -1,7 +1,7 @@
 Gentse Feesten
 ==============
 
-iPhone application to look at the programme of the 'Gentse feesten'.
+iPad application to look at the programme of the 'Gentse feesten'.
 
 The Android version is available at https://github.com/swentel/gentsefeesten.
 
