@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12E55" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="GFEvent" representedClassName="GFEvent" syncable="YES">
+        <attribute name="cat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cat_id" optional="YES" attributeType="Integer 16" defaultValueString="0" indexed="YES" syncable="YES"/>
+        <attribute name="datum" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="fav" optional="YES" attributeType="Boolean" defaultValueString="NO" indexed="YES" syncable="YES"/>
+        <attribute name="festival" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="gratis" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="korting" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lat" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="loc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loc_id" optional="YES" attributeType="Integer 16" defaultValueString="0" indexed="YES" syncable="YES"/>
+        <attribute name="lon" optional="YES" attributeType="Float" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="omschrijving" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="periode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="prijs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="prijs_vvk" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="serverId" optional="YES" attributeType="Integer 16" defaultValueString="0" indexed="YES" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="startuur" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="GFEvent" positionX="-450" positionY="-369" width="515" height="345"/>
+    </elements>
+</model>

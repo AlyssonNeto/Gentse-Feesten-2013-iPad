@@ -1,0 +1,31 @@
+PODS:
+  - AFNetworking (1.2.1)
+  - GoogleAnalytics-iOS-SDK (2.0beta4)
+  - MBProgressHUD (0.6)
+  - MDCParallaxView (0.1.4)
+  - PHFRefreshControl (1.0.0)
+  - SDSegmentedControl (1.0.1)
+  - SDURLCache (1.2)
+  - STTweetLabel (2.2.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.2.0)
+  - GoogleAnalytics-iOS-SDK (~> 2.0beta4)
+  - MBProgressHUD (~> 0.6)
+  - MDCParallaxView (~> 0.1.2)
+  - PHFRefreshControl (~> 1.0.0)
+  - SDSegmentedControl (~> 1.0.1)
+  - SDURLCache (~> 1.2)
+  - STTweetLabel (~> 2.2.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: a44069e3c9c89867544f6639482f155c7e5f9b41
+  GoogleAnalytics-iOS-SDK: ae8e58e771b6dec84c0047154cc0e550a15e6f54
+  MBProgressHUD: 9b55a90566fb5d07df0602f6fd9fa04510ad5d52
+  MDCParallaxView: a1aea11598439a6c20864e7bec23aa595464475b
+  PHFRefreshControl: b000ab0b2e7c038fd82565dfa6d0cc39f2a6edca
+  SDSegmentedControl: 270110865f17db04328b826ccea2c42ddee72a0f
+  SDURLCache: cf4dcdd0d01473c334e9338e82a8733de156ef15
+  STTweetLabel: 9d93c324a4ecf5b9e6d73b5ff2b4813e4a8adc91
+
+COCOAPODS: 0.19.1
